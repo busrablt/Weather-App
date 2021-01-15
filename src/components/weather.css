@@ -1,0 +1,25 @@
+*
+{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  
+
+}
+
+.result{
+  display: flex;
+  min-height: 10vh;
+  margin: auto;
+  width: 80%;
+  justify-content: space-between;
+  align-items: center; 
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+ul {
+  width: 50%;
+  display: flex;
+  list-style:none;
+  justify-content: space-between;
+}
